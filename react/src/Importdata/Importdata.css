@@ -1,0 +1,72 @@
+.im1 {
+  padding: 1.5rem;
+  background-color: rgb(247, 247, 247);
+  color: #333;
+  border-radius: 0.5rem;
+}
+
+.im2 {
+  margin-bottom: 1rem;
+}
+
+.im3 {
+  background-color: #cccccc;
+  color: #333;
+  border-width: 1px;
+  border-radius: 0.375rem;
+  padding: 0.5rem;
+}
+
+.im3:focus {
+  outline: none;
+  box-shadow: 0 0 0 2px #5754f3;
+}
+
+.im4 {
+  display: flex;
+  margin-bottom: 1rem;
+}
+
+.im5 {
+  background-color: rgb(0, 255, 98);
+  color: #141414;
+  padding: 0.5rem 1rem;
+  border-radius: 0.375rem;
+  margin-right: 0.5rem;
+}
+
+.im6 {
+  width: 100%;
+  border-collapse: collapse;
+}
+
+/* .im6 th, .im6 td {
+  border: 1px solid #908f8f; 
+  padding: 8px;
+}
+
+.im6 th {
+  background-color: #e8e6e6; 
+} */
+
+.im7 {
+  background-color: #d0d0d0;
+  color: #101010;
+}
+
+.im8 {
+  padding: 0.5rem 1rem;
+  border: 1px solid #a9a9a9;
+  text-align: left;
+}
+
+.im9 {
+}
+
+.im10 {
+  border: 1px solid #a9a9a9;
+  padding-left: 1rem;
+  padding-right: 1rem;
+  padding-top: 0.5rem;
+  padding-bottom: 0.5rem;
+}
